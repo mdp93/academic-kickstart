@@ -49,7 +49,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'publication/spy/PETS_SPy_Presentation.pdf'
 url_source: ''
-url_video: 'publication/spy/spy.mp4'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

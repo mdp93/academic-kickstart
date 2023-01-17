@@ -50,7 +50,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'publication/s2can/ACSAC_S2-CAN_Presentation.pdf'
 url_source: ''
-url_video: 'publication/s2can/s2can.mp4'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

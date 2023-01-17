@@ -50,7 +50,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'publication/aaos_security/SAE_Android_Automotive_Presentation.pdf'
 url_source: ''
-url_video: 'publication/aaos_security/android_automotive.mp4'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

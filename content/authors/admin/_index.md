@@ -14,13 +14,13 @@ organizations:
     url: https://www.clemson.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include automotive security and privacy.
 
 # Interests to show in About widget
 interests:
   - Autonomous Vehicle Security
   - Adversarial Machine Learning
-  - Automotive Privacy
+  - Automotive Data Privacy
 
 # Education to show in About widget
 education:
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:mpese@clemson.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mertpese
@@ -55,13 +55,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mertpese
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,6 +66,10 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor in the School of Computing at Clemson University, heading the TigerSec Laboratory. I earned my Ph.D. in Computer Science and Engineering from the University of Michigan (UM) in 2022. At UM, I was part of the Real-Time Computing Laboratory (RTCL) led by Prof. Kang Shin. 
+Mert D. Pesé is an Assistant Professor of Computer Science and Founding Director of the TigerSec Laboratory in the School of Computing at Clemson University. He received two B.S. degrees in Electrical Engineering and Computer Science and an M.S. in Electrical Engineering from the Technical University of Munich in 2014, 2015 and 2016, respectively. He received his Ph.D. degree in Computer Science and Engineering from the University of Michigan in 2022.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+His current research focuses on autonomous vehicle security, adversarial machine learning, as well as automotive data privacy. In particular, he focuses on in-vehicle network security, Android security, as well as attacks against the AI stack of autonomous vehicles. He has several peer-reviewed publications in top security and privacy venues, such as CCS, PETS and ACSAC. He has worked and collaborated with several automotive companies, such as General Motors, Ford, Audi, and Harman.
+
+{{% callout note %}}
+GRA positions in CS at Clemson available for MS/Ph.D. students, as well as summer internships. Read more [here](/openings).
+{{% /callout %}}
