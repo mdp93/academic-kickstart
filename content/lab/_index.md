@@ -1,7 +1,7 @@
 ![screen reader text](logo.png)
 
 ## PhD Students
-- Mehmet Ali Acikbas 
+- Pedram MohajerAnsari
 
 ## Master's Students
 - Bulut Gozubuyuk
@@ -21,3 +21,12 @@
 - Hayden Roof
 - Matthew Rippy
 - Miles Lyons
+- Yusuf Civan
+
+## EUREKA! Students
+- Ashton McEntarffer
+- Kevius Tribble
+
+## Summer Interns
+- Ece Alptekin (M.S. @ Koc University)
+- Alkim Dömeke (B.S. @ Middle East Technical University)

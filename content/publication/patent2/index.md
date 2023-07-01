@@ -7,14 +7,14 @@ title: 'Anomaly Detection Systems and Methods'
 authors:
   - admin
   - Prachi Joshi
-  - Kemal E Tepe
+  - Kemal E. Tepe
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-06-02T00:00:00Z'
+date: '2023-04-11T00:00:00Z'
 #doi: '10.1145/3319535.3363190'
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/patent2/US20220172010A1.pdf'
+url_pdf: 'publication/patent2/US11126744.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -13,7 +13,7 @@ view: 2
 There are several RA openings for graduate students in my lab at Clemson University. These positions are supported with a monthly stipend and tuition wavier. Students are expected to closely work with me on several research projects on automotive security and privacy. Applicants with strong motivation and a degree in related fields (e.g., CS/CE/EE) are preferred. Research background in security and computer vision are desired.
 
 {{% callout note %}}
-I am currently looking for two (2) Ph.D. students for Fall 2023 who are interested in working on autonomous vehicle security (computer vision experience is a plus) or Android Automotive security (Android experience is a plus).
+I am currently not looking for any students. However, strong applicants are welcome to email me at anytime.
 {{% /callout %}}
 
 {{% callout note %}}
@@ -37,14 +37,10 @@ Students enrolled in Clemson are very welcome if interested in cyber security an
 {{% /callout %}}
 
 {{% callout note %}}
-I will be offering a **Creative Inquiry** course (CPSC1990/3990) in Spring 2023. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
+I will be offering a **Creative Inquiry** course (CPSC1990/3990) in Fall 2023. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
 {{% /callout %}}
 
 ## Internships
-
-{{% callout note %}}
-**Limited** funding opportunities for Summer 2023!
-{{% /callout %}}
 
 If you want to do an internship with me, please contact me with your interests, your preferred timeline for the internship, and your level of funding. Doing an internship with me is practically “free”, aside from the cost of living in Clemson. If you come from outside the U.S., the immigration services will require that you have sufficient funds to support yourself, though. If you require a U.S. Visa, please contact me early, so that this can be arranged on time!
 
