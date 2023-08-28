@@ -69,7 +69,3 @@ highlight_name: true
 Mert D. Pesé is an Assistant Professor of Computer Science and Founding Director of the TigerSec Laboratory in the School of Computing at Clemson University. He received two B.S. degrees in Electrical Engineering and Computer Science and an M.S. in Electrical Engineering from the Technical University of Munich in 2014, 2015 and 2016, respectively. He received his Ph.D. degree in Computer Science and Engineering from the University of Michigan in 2022.
 
 His current research focuses on autonomous vehicle security, adversarial machine learning, as well as automotive data privacy. In particular, he focuses on in-vehicle network security, Android security, as well as attacks against the AI stack of autonomous vehicles. He has several peer-reviewed publications in top security and privacy venues, such as CCS, PETS and ACSAC. He has worked and collaborated with several automotive companies, such as General Motors, Ford, Audi, and Harman.
-
-{{% callout note %}}
-GRA positions in CS at Clemson available for MS/Ph.D. students, as well as summer internships. Read more [here](/openings).
-{{% /callout %}}

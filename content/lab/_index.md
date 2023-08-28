@@ -1,31 +1,25 @@
 ![screen reader text](logo.png)
 
 ## PhD Students
+- Levent Celik
 - Pedram MohajerAnsari
+- Derik Pack
 
 ## Master's Students
 - Bulut Gozubuyuk
-- Gourish Pisal (co-advised with [Dr. Amy Apon](https://people.computing.clemson.edu/~aapon/))
+- Jan de Voor
 
 ## Undergraduate Students
-- Matt Ehrnschwender
-- Wyatt Doris
-- Isaac Fletcher
-- Tim Koehler
-- Cameron Kimner
-- Yash Patel
-- Nicholas DiGennaro
-- Charles Truluck
-- Adrian Colaianni
-- Nathan Goller-Deitsch
-- Hayden Roof
-- Matthew Rippy
-- Miles Lyons
 - Yusuf Civan
-
-## EUREKA! Students
+- Nicholas DiGennaro
+- Isaac Fletcher
+- Nathan Goller-Deitsch
+- Grace Johnson
 - Ashton McEntarffer
+- Hayden Roof
+- Christian Scott
 - Kevius Tribble
+- Austin Wagner
 
 ## Summer Interns
 - Ece Alptekin (M.S. @ Koc University)
