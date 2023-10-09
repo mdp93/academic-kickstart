@@ -13,7 +13,7 @@ view: 2
 There are several RA openings for graduate students in my lab at Clemson University. These positions are supported with a monthly stipend and tuition wavier. Students are expected to closely work with me on several research projects on automotive security and privacy. Applicants with strong motivation and a degree in related fields (e.g., CS/CE/EE) are preferred. Research background in security and computer vision are desired.
 
 {{% callout note %}}
-I am currently not looking for any students. However, strong applicants are welcome to email me at anytime.
+I am currently looking for one Ph.D. student to work on CAN security research.
 {{% /callout %}}
 
 {{% callout note %}}
