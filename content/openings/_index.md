@@ -10,10 +10,10 @@ view: 2
 ---
 
 ## For Prospective Graduate Students
-There are several RA openings for graduate students in my lab at Clemson University. These positions are supported with a monthly stipend and tuition wavier. Students are expected to closely work with me on several research projects on automotive security and privacy. Applicants with strong motivation and a degree in related fields (e.g., CS/CE/EE) are preferred. Research background in security and computer vision are desired.
+There are available RA openings for graduate students in my lab at Clemson University. These positions are supported with a monthly stipend and tuition wavier. Students are expected to closely work with me on several research projects on automotive security and privacy. Applicants with strong motivation and a degree in related fields (e.g., CS/CE/EE) are preferred. Research background in security and computer vision are desired.
 
 {{% callout note %}}
-I am currently looking for one Ph.D. student to work on CAN security research.
+I have no open RA positions at the moment. However, exceptional candidates are always welcome to apply and contact me.
 {{% /callout %}}
 
 {{% callout note %}}
@@ -37,7 +37,7 @@ Students enrolled in Clemson are very welcome if interested in cyber security an
 {{% /callout %}}
 
 {{% callout note %}}
-I will be offering a **Creative Inquiry** course (CPSC1990/3990) in Fall 2023. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
+I will be offering a **Creative Inquiry** course (CPSC1990/3990) in Fall 2024. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
 {{% /callout %}}
 
 ## Internships
