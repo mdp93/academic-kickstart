@@ -1,18 +1,13 @@
-+++
-date = 2017-12-01
-lastmod = 2017-12-01
-draft = false
-tags = []
-title = "News"
-math = true
-summary = """
-List of news.
-"""
-
-[header]
-image = ""
-caption = ""
-
-+++
+---
+title: 
+cms_exclude: true
+type: docs
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: card
+---
 
 {{< readfromfile "/content/newslist.dat" 1000 >}} 
