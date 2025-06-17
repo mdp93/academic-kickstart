@@ -4,8 +4,16 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mert D. Pesé # Website name
-baseURL: 'https://www.mpese.com/' # Website URL
+baseURL: 'https://mdp93.github.io/' # Website URL
 
+relativeURLs: false
+canonifyURLs: true
+
+params:
+  url: 'https://mdp93.github.io/'
+  baseurl: 'https://mdp93.github.io/'
+  deployment:
+    subfolder: false
 ############################
 ## LANGUAGE
 ############################
