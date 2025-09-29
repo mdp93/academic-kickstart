@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '/publication'
     weight: 30
-  - name: Students
+  - name: Lab
     url: '/lab'
     weight: 40
   - name: Service

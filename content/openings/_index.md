@@ -16,7 +16,7 @@ Graduate Research Assisstant (GRA) positions at Clemson University are supported
 I have **no** open RA positions at the moment. However, exceptional candidates are always welcome to apply and contact me.
 {{% /callout %}}
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Applicants are encouraged to send the following supporting materials (**combined in a single PDF**) to me before submitting their formal applications.
 
 - Full resume (required).
@@ -28,16 +28,16 @@ Applicants are encouraged to send the following supporting materials (**combined
 {{% /callout %}}
 
 - All application information can be find in the [Graduate Student Handbook (Page 8)](https://www.clemson.edu/cecas/departments/ece/document_resource/grad/graduate_student_handbook_main_2020.pdf).
-- The graduate program overview can be found [here] (https://www.clemson.edu/cecas/departments/computing/academics/graduates/index.html).
+- The graduate program overview can be found [here(https://www.clemson.edu/cecas/departments/computing/academics/graduates/index.html).-->
 
 ## Clemson Students
 
-{{% callout note %}}
+<!--{{% callout note %}}
 Students enrolled in Clemson are very welcome if interested in cyber security and/or adversarial machine learning. Please send an email with the full resume or stop by at my office (215 McAdams Hall).
-{{% /callout %}}
+{{% /callout %}} -->
 
 {{% callout note %}}
-I will be offering a **Creative Inquiry** course (CPSC1990/3990) in Fall 2025. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
+I will be offering a **Creative Inquiry on Automotive Security and Privacy** course (CPSC1990/3990) in Spring 2026. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
 {{% /callout %}}
 
 ## Internships
@@ -47,4 +47,4 @@ If you want to do an internship with me, please contact me with your interests, 
 If you already have funding, then I am happy to advise you on a project of your own choosing, as long as it broadly aligns with my interests.
 
 ## About Clemson University
-Clemson University is founded in 1889 and located in Clemson, South Carolina. It is ranked as the 27th best national public university by U.S. News & World Report in 2019. In 2008, 2012, 2015, U.S. News ranked Clemson as the 22nd, 25th, and 21st top public university. Clemson University is classified among “R1: Doctoral Universities – Very high research activity” by Carnegie Classification.
+Clemson University is founded in 1889 and located in Clemson, South Carolina. In the 2026 U.S. News & World Report rankings, Clemson is ranked **No. 36** among national public universities and is the top public institution in South Carolina. Clemson University is classified among “R1: Doctoral Universities – Very high research activity” by Carnegie Classification.

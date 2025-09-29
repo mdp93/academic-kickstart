@@ -12,20 +12,26 @@ view: card
 ![screen reader text](logo_new.png)
 
 ## Postdoc
-- Amir Salarpour
+- [Dr. Amir Salarpour](https://asalarpour.github.io/)
 
 ## PhD Students
-- Levent Celik
 - Jan de Voor
 - Alkim Domeke
 - David Fernandez
+- Yu Wei (Sam) Liu
 - Pedram MohajerAnsari
 - Derik Pack
 - Robert Taylor
+- [Run Wang](https://runwang123.github.io/) (co-advised with [Dr. Siyu Huang](https://siyuhuang.github.io/))
+- Correy Washburn (co-advised with [Dr. Richard Brooks](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/rbrooks.html))
 
 ## Master's Students
-- Yu Wei (Sam) Liu
+- Levent Celik
 
 ## Alumni
 #### Master's Students
 - Bulut Gozubuyuk
+
+## Pictures
+![Lab Picnic 2025](LabPicnic2025.jpeg)
+![Lab Picnic 2024](LabPicnic2024.jpg)

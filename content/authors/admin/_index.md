@@ -14,13 +14,13 @@ organizations:
     url: https://www.clemson.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include automotive security and privacy.
+bio: My research interests broadly lie in automotive security and privacy.
 
 # Interests to show in About widget
 interests:
   - Autonomous Vehicle Security
-  - Adversarial Machine Learning
-  - Generative AI Applications in Security
+  - Trustworthy AI
+  - Generative AI for Security
   - Automotive Data Privacy
 
 # Education to show in About widget
@@ -63,4 +63,4 @@ highlight_name: true
 
 Mert D. Pesé is an Assistant Professor of Computer Science and Founding Director of the TigerSec Laboratory in the School of Computing at Clemson University. He received two B.S. degrees in Electrical Engineering and Computer Science and an M.S. in Electrical Engineering from the Technical University of Munich in 2014, 2015 and 2016, respectively. He received his Ph.D. degree in Computer Science and Engineering from the University of Michigan in 2022.
 
-His current research focuses on autonomous vehicle security, generative AI for security applications, as well as automotive data privacy. He has several peer-reviewed publications in top security and privacy venues, such as CCS, PETS, ACSAC, DSN and has received the Best Paper Award at VehicleSec 2023. He has worked and collaborated with several automotive companies, such as General Motors, Ford, BMW, Audi, DENSO and Harman. His research is supported by US Army GVSC, NSA, DENSO and BMW.
+His current research focuses on autonomous vehicle security, generative AI for security applications, as well as automotive data privacy. He has several peer-reviewed publications in top security and privacy venues, such as CCS, PETS, ACSAC, DSN and has received the Best Paper Award at VehicleSec 2023. He has worked and collaborated with several automotive companies, such as General Motors, Ford, BMW, Audi, DENSO and Harman. His research is supported by US Army GVSC, USDOT, NSA, DENSO and BMW.
