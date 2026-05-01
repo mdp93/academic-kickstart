@@ -37,7 +37,7 @@ Students enrolled in Clemson are very welcome if interested in cyber security an
 {{% /callout %}} -->
 
 {{% callout note %}}
-I will be offering a **Creative Inquiry on Automotive Security and Privacy** course (CPSC1990/3990) in Spring 2026. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
+I will be offering a **Creative Inquiry on Automotive Security and Privacy** course (CPSC1990/3990) in Fall 2026. Students from all years are encouraged to register for this class! Please also send me an email if you enroll.
 {{% /callout %}}
 
 ## Internships

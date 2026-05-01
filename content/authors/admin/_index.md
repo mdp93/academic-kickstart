@@ -18,9 +18,9 @@ bio: My research interests broadly lie in automotive security and privacy.
 
 # Interests to show in About widget
 interests:
-  - Autonomous Vehicle Security
   - Trustworthy AI
-  - Generative AI for Security
+  - Embodied AI Security
+  - Autonomous Vehicle Security
   - Automotive Data Privacy
 
 # Education to show in About widget
@@ -61,6 +61,5 @@ highlight_name: true
 
 ## About Me
 
-Mert D. Pesé is an Assistant Professor of Computer Science and Founding Director of the TigerSec Laboratory in the School of Computing at Clemson University. He received two B.S. degrees in Electrical Engineering and Computer Science and an M.S. in Electrical Engineering from the Technical University of Munich in 2014, 2015 and 2016, respectively. He received his Ph.D. degree in Computer Science and Engineering from the University of Michigan in 2022.
-
-His current research focuses on autonomous vehicle security, generative AI for security applications, as well as automotive data privacy. He has several peer-reviewed publications in top security and privacy venues, such as CCS, PETS, ACSAC, DSN and has received the Best Paper Award at VehicleSec 2023. He has worked and collaborated with several automotive companies, such as General Motors, Ford, BMW, Audi, DENSO and Harman. His research is supported by US Army GVSC, USDOT, NSA, DENSO and BMW.
+Mert D. Pesé is an Assistant Professor of Computer Science and the Founding Director of the TigerSec Laboratory in the School of Computing at Clemson University. He earned two B.S. degrees and an M.S. degree in Electrical Engineering and Computer Science from the Technical University of Munich in 2014, 2015, and 2016, respectively, and received his Ph.D. in Computer Science and Engineering from the University of Michigan in 2022.
+His research focuses on the security of autonomous and connected vehicles, trustworthy embodied AI, as well as advancing automotive data privacy. His work has been published in leading security, privacy, and robotics venues, including CCS, PETS, ICRA, ACSAC, and DSN. He is the recipient of Best Paper Awards at VehicleSec 2023 and SAE WCX 2025. Dr. Pesé has collaborated extensively with major automotive and technology companies, including General Motors, Ford, BMW, Audi, DENSO, and Harman. His research is supported by organizations such as NSF, U.S. Army, USDOT, NSA, DENSO, and BMW. He is the recipient of an NSF CAREER award.

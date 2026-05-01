@@ -15,7 +15,7 @@ view: card
 - [Dr. Amir Salarpour](https://asalarpour.github.io/)
 
 ## PhD Students
-- Jan de Voor
+- [Jan de Voor](https://janpauldevoor.github.io/)
 - Alkim Domeke
 - David Fernandez
 - Yu Wei (Sam) Liu
@@ -28,9 +28,19 @@ view: card
 ## Master's Students
 - Levent Celik
 
+## Undergraduate Students
+- Anna Galeano
+- Ashton McEntarffer
+
+## Visiting Students
+- Ramin Babazade
+
 ## Alumni
 #### Master's Students
 - Bulut Gozubuyuk
+
+#### Visiting Students
+- Philipp Bauerfeind
 
 ## Pictures
 ![Lab Picnic 2025](LabPicnic2025.jpeg)
