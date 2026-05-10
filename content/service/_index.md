@@ -20,7 +20,7 @@ view: card
 - [**escar**] escar USA, 2025-now
 - [**SecDev**] IEEE Secure Development Conference, 2024-now
 - [**SmartSP**] EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles, 2025
-- [**CCS**] ACM Conference on Computer and Communications Security, 2022-2024
+- [**CCS**] ACM Conference on Computer and Communications Security, 2024
 - [**CSCS**] ACM Cyber Security in Cars Workshop @ CCS, 2024
 - [**WPES**] Workshop on Privacy in the Electronic Society, 2023
 - [**VehicleSec**] ISOC Symposium on Vehicle Security and Privacy (including previous AutoSec workshops), 2021-2024

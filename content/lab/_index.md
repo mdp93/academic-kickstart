@@ -16,32 +16,33 @@ view: card
 
 ## PhD Students
 - [Jan de Voor](https://janpauldevoor.github.io/)
-- Alkim Domeke
-- David Fernandez
-- Yu Wei (Sam) Liu
-- Pedram MohajerAnsari
-- Derik Pack
+- [Alkim Domeke](https://www.linkedin.com/in/alkimdomeke/)
+- [David Fernandez](https://davidferna.com/)
+- [Yu Wei (Sam) Liu](https://docs.samproj.com/)
+- [Pedram MohajerAnsari](https://www.linkedin.com/in/pedram-mohajeransari/)
+- [Derik Pack](https://www.linkedin.com/in/derik-pack-73314387/)
 - Robert Taylor
-- [Run Wang](https://runwang123.github.io/) (co-advised with [Dr. Siyu Huang](https://siyuhuang.github.io/))
-- Correy Washburn (co-advised with [Dr. Richard Brooks](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/rbrooks.html))
+- [Run Wang](https://ulairii.github.io/) (co-advised with [Dr. Siyu Huang](https://siyuhuang.github.io/))
+- [Correy Washburn](https://www.linkedin.com/in/correywashburn/) (co-advised with [Dr. Richard Brooks](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/rbrooks.html))
 
 ## Master's Students
-- Levent Celik
+- [Levent Celik](https://www.linkedin.com/in/celiklevent/)
 
 ## Undergraduate Students
-- Anna Galeano
-- Ashton McEntarffer
+- [Anna Galeano](https://www.linkedin.com/in/connectedanna/)
+- [Ashton McEntarffer](https://www.linkedin.com/in/ashtonmc/)
 
 ## Visiting Students
-- Ramin Babazade
+- [Ramin Babazade](https://www.linkedin.com/in/rambzd/)
 
 ## Alumni
 #### Master's Students
-- Bulut Gozubuyuk
+- [Bulut Gozubuyuk](https://bulutg.com/)
 
 #### Visiting Students
-- Philipp Bauerfeind
+- [Philipp Bauerfeind](https://www.linkedin.com/in/philipp-bauerfeind-80a86b294/)
 
 ## Pictures
+![February 2026](Feb26.jpg)
 ![Lab Picnic 2025](LabPicnic2025.jpeg)
 ![Lab Picnic 2024](LabPicnic2024.jpg)
