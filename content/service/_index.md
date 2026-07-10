@@ -15,6 +15,7 @@ view: card
 - [**WCX**] SAE World Congress Experience, Session Organizer, 2022-now
 
 ## Conference Program Committee
+- [**USENIX**] USENIX Security Symposium, 2027
 - [**Oakland**] IEEE Symposium on Security and Privacy, 2027
 - [**AsiaCCS**] ACM ASIA Conference on Computer and Communications Security, 2027
 - [**escar**] escar USA, 2025-now

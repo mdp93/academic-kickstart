@@ -1,5 +1,5 @@
 ---
-title: Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures
+title: From MIRAGE to CLEAR - Component-Level Explainable Anomaly Reasoning for Autonomous Vehicle Perception Systems
 
 # Authors
 # A YAML list of author names
@@ -9,8 +9,8 @@ authors:
 - David Fernandez
 - Pedram MohajerAnsari
 - Amir Salarpour
-- Long Cheng
-- Abolfazl Razi
+- Cigdem Kokenoz
+- Bing Li
 - admin
 
 # Author notes (such as 'Equal Contribution')
@@ -28,7 +28,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Intelligent Vehicles Symposium (IV) 2026*'
+publication: '*The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2026*'
 publication_short: ''
 
 doi: ''
@@ -44,7 +44,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'publication/fernandez-2026-comparative/IV26_0524_FI.pdf'
+url_pdf: 'publication/fernandez-2026-from/DSN26_MIRAGE_CLEAR.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
