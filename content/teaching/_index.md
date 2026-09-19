@@ -12,7 +12,7 @@ view: card
 
 ## Undergraduate Courses
 
-CPSC 4200/6200 Computer Security Principles (Fall 2026)
+[CPSC 4200/6200 Computer Security Principles (Fall 2026)](/uploads/f26cpsc4200_syllabus.pdf)
 
 CPSC 1990/3990 Understanding and Mitigating Privacy Risks in Connected Vehicles (Fall 2026)
 
@@ -40,7 +40,7 @@ CPSC 1990/3990 Creative Inquiry: Automotive Security and Privacy (Fall 2024)
 
 ## Graduate Courses
 
-CPSC 8580 Security in Emerging Computing and Networking Systems (Fall 2026)
+[CPSC 8580 Security in Emerging Computing and Networking Systems (Fall 2026)](/uploads/f26cpsc8580_syllabus.pdf)
 
 [CPSC 8580 Security in Emerging Computing and Networking Systems (Fall 2025)](/uploads/f25cpsc8580_syllabus.pdf)
 

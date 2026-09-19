@@ -19,7 +19,7 @@ view: card
 
 #### 2026–2031
 - **Sole PI, National Science Foundation**  
-  *CAREER: Understanding, Measuring, and Mitigating Privacy Risks in the Automotive Ecosystem.*  
+  *[CAREER: Understanding, Measuring, and Mitigating Privacy Risks in the Automotive Ecosystem.](https://news.clemson.edu/what-does-your-car-know-about-you-more-than-you-might-think-says-clemson-university-researcher/)*  
   $599,654.  
   Pesé funding based on percentage credit (100%): $599,654.
 
